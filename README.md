@@ -1,7 +1,7 @@
 <p>
   <a href="https://rileyko.github.io/" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="https://woodeem.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/JekyllBlog-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a>
-  <a href="mailto:kowlkh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:kowlkh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kowlkh@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/woolim-ko-205917195/" target="_blank"><img src="https://img.shields.io/badge/WoolimKo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
