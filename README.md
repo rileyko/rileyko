@@ -3,7 +3,7 @@
 <p>
   <h1>👋&nbsp; Hi, I'm Riley! 👋&nbsp;  </h1>
   
-    <h2> 😊 Welcome </h2>
+  <h2> 😊 Welcome </h2>
   <p>
       <a href="https://rileyko.github.io/" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
         <a href="https://woodeem.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/JekyllBlog-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a>
