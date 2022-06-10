@@ -28,8 +28,9 @@
 </p>
 
 <h2> 💪 Skills </h2>
-<h3>  Data Scientist </h3>
+<h3>  Data Analyst & Scientist </h3>
 <p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
