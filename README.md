@@ -13,9 +13,10 @@
 
   <h2> 👩🏻‍💼 Career </h2> 
   <ul>
-      <li><b> Bio Researcher 👩🏻‍🔬 </b> | <b>Liver cancer cell and enzyme research</b> using Ihc, cell culturing, ...</li>
-      <li><b> I2Max DI Part Leader 👩🏻‍💻  </b>  | <b>Salesforce AI researcher and developer</b> using Einstein Platform, Tableau CRM, Snowflake, ...</li>
+      <li><b> Bio Researcher 👩🏻‍🔬  </b> | <b>Liver cancer cell and enzyme research</b> using Ihc, cell culturing, ...</li>
+      <li><b> I2Max DI Part  👩🏻‍💻  </b>  | <b>Salesforce AI researcher and developer</b> using Einstein Platform, Tableau CRM, Snowflake, ...</li>
       <li><b> Data Scientist 🐍  </b>  | <b>AI developer</b> using Python, Django, ...</li>
+      <li><b> Data Analyst   📊  </b>  | <b>Data Analyst</b> using Tableau, CRM Analytics, ...</li>
   </ul>
   
   <h2> 🙋🏻‍♀️ Values</h2> 
