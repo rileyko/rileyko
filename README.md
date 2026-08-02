@@ -100,8 +100,23 @@
 - Python 기반 AI 큐레이터 웹 서비스의 프론트엔드·백엔드 기능 개발
 - 서비스 요구사항 구현과 배포 지원
 
----
 
+## 🎓 Education
+
+- **2026.07.21 – 2026.11.04 · 그로스 마케터 부트캠프**  
+  멋쟁이사자처럼
+- **2025.07 – 2025.11 · 웹디자인 UIUX**  
+  SBS컴퓨터아카데미 · Photoshop · Illustrator
+- **2020.06 – 2020.11 · 빅데이터 UI 전문가 양성**  
+  더조은컴퓨터아트학원 · Python · R
+
+## 🏅 Certifications
+
+- **Marketing** · DMQ · GAIQ
+- **Data** · ADsP · Tableau CRM / Einstein Consultant
+- **Design** · GTQ Photoshop · GTQi Illustrator · GTQid InDesign
+
+---
 
 <p align="center">
   <a href="https://vistawoo.com">vistawoo.com</a> ·
