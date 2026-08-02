@@ -109,9 +109,9 @@
 
 ## 🏅 Certifications
 
-- **Marketing** · DMQ · GAIQ
-- **Data** · ADsP · Tableau CRM / Einstein Consultant
-- **Design** · GTQ Photoshop · GTQi Illustrator · GTQid InDesign
+- **마케팅** · DMQ (디지털 마케터 자격증) · GAIQ (Google Analytics 개인 인증)
+- **데이터** · ADsP (데이터분석 준전문가) · Tableau CRM & Einstein Discovery Consultant (세일즈포스 CRM 분석·Einstein Discovery 컨설턴트)
+- **디자인** · GTQ Photoshop (그래픽기술자격 포토샵) · GTQi Illustrator (그래픽기술자격 일러스트) · GTQid InDesign (그래픽기술자격 인디자인)
 
 ---
 
