@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://vistawoo.com"><img src="https://img.shields.io/badge/Website-vistawoo.com-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/woolim-ko-205917195/"><img src="https://img.shields.io/badge/LinkedIn-Ko%20WooLim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/vistawoo.co?igsh=ZXAxNm90aXg1Y3F4&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-@vistawoo.co-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://public.tableau.com/app/profile/riley5917/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-Data%20Viz-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Public" /></a>
 </p>
 
@@ -26,6 +27,7 @@
 - 마케팅 지표 설계, SQL, GA4, Tableau 시각화
 - Python을 활용한 데이터 분석과 실험 아이디어 도출
 - 고객·시장 리서치를 바탕으로 한 문제 정의와 기획
+- 생성형 AI를 활용한 콘텐츠 제작과 브랜드 커뮤니케이션
 
 ## 🗂️ 대표 프로젝트
 
@@ -49,6 +51,17 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
+## 🎨 콘텐츠 제작 · 생성형 AI 툴
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Nano%20Banana-FFCC00?style=flat-square&logo=google&logoColor=black" alt="Nano Banana" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Google%20Veo-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Veo" />
+  <img src="https://img.shields.io/badge/Kling%20AI-1E1E1E?style=flat-square&logo=film&logoColor=white" alt="Kling AI" />
+</p>
+
 ## 💼 Experience
 
 | 기간 | 경험 | 주요 업무 |
@@ -63,6 +76,7 @@
 <p align="center">
   <a href="https://vistawoo.com">vistawoo.com</a> ·
   <a href="https://www.linkedin.com/in/woolim-ko-205917195/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/vistawoo.co?igsh=ZXAxNm90aXg1Y3F4&utm_source=qr">Instagram</a> ·
   <a href="https://public.tableau.com/app/profile/riley5917/vizzes">Tableau Public</a>
 </p>
 
