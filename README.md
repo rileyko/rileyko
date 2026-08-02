@@ -1,57 +1,35 @@
+<h1 align="center">WooLim Ko</h1>
 
-
-<p>
-  <h1>👋&nbsp; Hi, I'm Riley! 👋&nbsp;  </h1>
-  
-  <h2> 😊 Welcome </h2>
-  <p>
-      <a href="https://rileyko.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-        <a href="https://rileyko.github.io/" target="_blank"><img src="https://img.shields.io/badge/JekyllBlog-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a>
-      <a href="mailto:kowlkh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kowlkh@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/woolim-ko-205917195/" target="_blank"><img src="https://img.shields.io/badge/WoolimKo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  </p>
-
-  <h2> 👩🏻‍💼 Career </h2> 
-  <ul>
-      <li><b> Bio Researcher 👩🏻‍🔬  </b> | <b>Liver cancer cell and enzyme research</b> using Ihc, cell culturing, ...</li>
-      <li><b> I2Max DI Part  👩🏻‍💻  </b>  | <b>Salesforce AI researcher and developer</b> using Einstein Platform, Tableau CRM, Snowflake, ...</li>
-      <li><b> Data Scientist 🐍  </b>  | <b>AI developer</b> using Python, Django, ...</li>
-      <li><b> Data Analyst   📊  </b>  | <b>Data Analyst</b> using Tableau, CRM Analytics, ...</li>
-  </ul>
-  
-  <h2> 🙋🏻‍♀️ Values</h2> 
-  <ul>
-    <li> What does not kill me makes me stronger. - Friedrich Niezsche 🦾 </li>
-  </ul>
-  
-
+<p align="center">
+  <strong>Growth Marketer · Data Analyst</strong><br />
+  Turning marketing data into clear growth decisions.
 </p>
 
-<h2> 💪 Skills </h2>
-<h3>  Data Analyst & Scientist </h3>
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/woolim-ko-205917195/">LinkedIn</a>
 </p>
 
-<h3> Salesforce AI R&D </h3>
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-</p>
+## About me
 
-<h3>  Collaboration Tools </h3>
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-</p>
+마케팅 데이터를 분석하고, 실행 가능한 인사이트와 실험 아이디어로 연결합니다.  
+Python, SQL, Tableau를 활용해 성과를 읽고 더 나은 성장 전략을 설계하는 데 관심이 있습니다.
+
+- Based in Seoul, South Korea
+- Interested in Growth Marketing, Marketing Analytics, and BI
+- Building practical projects with data
+
+## Featured projects
+
+| Project | What I built |
+| --- | --- |
+| [Growth Marketing Bootcamp](https://github.com/rileyko/growth-marketing-bootcamp) | 데이터 기반 그로스 마케팅 부트캠프 포트폴리오 |
+| [Marketing Data Analysis](https://github.com/rileyko/marketing-data-analysis) | 마케터를 위한 Python 기반 데이터 분석 교육 자료 |
+| [Cooling Shampoo Analysis](https://github.com/rileyko/cooling-shampoo-analysis) | 올리브영 리뷰 데이터를 활용한 시장 분석과 신제품 기획 프로젝트 |
+
+## Skills
+
+`Python` · `SQL` · `Pandas` · `Tableau` · `GA4` · `Marketing Analytics`
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frileyko&count_bg=%23FBB6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<sub>Always curious about the story behind the numbers.</sub>
