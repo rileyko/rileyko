@@ -39,28 +39,13 @@
 
 <p align="right"><a href="https://public.tableau.com/app/profile/riley5917/vizzes">→ Tableau Public에서 데이터 시각화 보기</a></p>
 
-## 📊 마케팅 데이터 분석 툴 · 활용 & 학습 중
+## 🧰 Tools & Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-## 🎨 콘텐츠 제작 · 생성형 AI 툴
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Nano%20Banana-FFCC00?style=flat-square&logo=google&logoColor=black" alt="Nano Banana" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Google%20Veo-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Veo" />
-  <img src="https://img.shields.io/badge/Kling%20AI-1E1E1E?style=flat-square&logo=film&logoColor=white" alt="Kling AI" />
-</p>
+| 📊 데이터 분석 · 시각화 | 📈 마케팅 분석 · 리포팅 |
+| :-- | :-- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /><br/><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /> | <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" /> <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" /><br/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" /> |
+| 🎨 콘텐츠 제작 · 디자인 | 🤖 생성형 AI · 영상 |
+| <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" /><br/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /> | <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Nano%20Banana-FFCC00?style=flat-square&logo=google&logoColor=black" alt="Nano Banana" /><br/><img src="https://img.shields.io/badge/Google%20Veo-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Veo" /> <img src="https://img.shields.io/badge/Kling%20AI-1E1E1E?style=flat-square&logo=film&logoColor=white" alt="Kling AI" /> |
 
 ## 💼 Experience
 
