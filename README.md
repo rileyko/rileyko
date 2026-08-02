@@ -44,44 +44,32 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 데이터 분석 · 시각화</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-      </p>
+      <strong>📊 데이터 분석 · 시각화</strong><br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
+      <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />&nbsp;
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
     </td>
     <td width="50%" valign="top">
-      <h3>📈 마케팅 분석 · 리포팅</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-      </p>
+      <strong>📈 마케팅 분석 · 리포팅</strong><br /><br />
+      <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" />&nbsp;
+      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />&nbsp;
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 콘텐츠 제작 · 디자인</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-      </p>
+      <strong>🎨 콘텐츠 제작 · 디자인</strong><br /><br />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />&nbsp;
+      <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" />&nbsp;
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 생성형 AI · 영상</h3>
-      <p>
-        <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Nano%20Banana-FFCC00?style=flat-square&logo=google&logoColor=black" alt="Nano Banana" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Google%20Veo-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Veo" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Kling%20AI-1E1E1E?style=flat-square&logo=film&logoColor=white" alt="Kling AI" />
-      </p>
+      <strong>🤖 생성형 AI · 영상</strong><br /><br />
+      <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />&nbsp;
+      <img src="https://img.shields.io/badge/Nano%20Banana-FFCC00?style=flat-square&logo=google&logoColor=black" alt="Nano Banana" />&nbsp;
+      <img src="https://img.shields.io/badge/Google%20Veo-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Veo" />&nbsp;
+      <img src="https://img.shields.io/badge/Kling%20AI-1E1E1E?style=flat-square&logo=film&logoColor=white" alt="Kling AI" />
     </td>
   </tr>
 </table>
